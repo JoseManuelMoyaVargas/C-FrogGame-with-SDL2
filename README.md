@@ -20,9 +20,9 @@ Frog Game version using C++ and SDL2 library
  * Pressing the 'p' key during the game causes the game to stop
  * The frog has 40 seconds to pass to the other side, otherwise it loses a life.
  * Points:
- - Advance one position =10 points
- - Leading Frogger to the nest on the safe riverbank = 50pts + the remaining time in seconds * 10pts 
- - Successfully leading the lost frog (purple frog) = 200 pts
- - Eating a bee = 200 pts
+ 1. Advance one position =10 points
+ 2. Leading Frogger to the nest on the safe riverbank = 50pts + the remaining time in seconds * 10pts 
+ 3. Successfully leading the lost frog (purple frog) = 200 pts
+ 4. Eating a bee = 200 pts
  
 
