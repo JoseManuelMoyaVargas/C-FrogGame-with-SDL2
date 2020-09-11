@@ -14,5 +14,8 @@ Frog Game version using C++ and SDL2 library
  ![image2](https://github.com/JoseManuelMoyaVargas/C-FrogGame-with-SDL2/blob/master/screenshots/highScoresMenu.png)
  
 
+### Playing the game
+
+ ![image3](https://github.com/JoseManuelMoyaVargas/C-FrogGame-with-SDL2/blob/master/screenshots/highScoresMenu.png)
 
 
