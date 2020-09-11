@@ -3,6 +3,8 @@ Frog Game version using C++ and SDL2 library
 
 ## Screenshots
 
-![image1]( https://github.com/JoseManuelMoyaVargas/MAST-program/blob/master/sources/image1.png)
+![image1]( https://github.com/JoseManuelMoyaVargas/C-FrogGame-with-SDL2/blob/master/screenshots/mainMenu.png)
+
+
 
 
