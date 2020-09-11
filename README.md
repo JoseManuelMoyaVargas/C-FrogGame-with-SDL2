@@ -1,5 +1,5 @@
 # C-FrogGame-with-SDL2
-Frog Game version using C++ and SDL2 library ["SDL2 library"](https://www.libsdl.org/)
+Frog Game version using C++ and [SDL2 library](https://www.libsdl.org/)
 
 
 ## Screenshots
