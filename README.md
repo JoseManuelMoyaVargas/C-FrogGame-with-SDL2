@@ -11,7 +11,8 @@ Frog Game version using C++ and SDL2 library
  * If we want to continue the game where we stopped we can press r.
  
 ### Pressing 3
- ![image2]( https://github.com/JoseManuelMoyaVargas/C-FrogGame-with-SDL2/blob/master/screenshots/mainMenu.png)
+ ![image2](https://github.com/JoseManuelMoyaVargas/C-FrogGame-with-SDL2/blob/master/screenshots/highScoresMenu.png)
+ 
 
 
 
